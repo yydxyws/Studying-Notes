@@ -12,8 +12,6 @@ Math:probality-statistic content....
 
 Material: QMDots Review collation , and some chems notes
 
-English: Categorical memorization of vocabulary and brief grammers 
-
 Astronomy: Perhaps guide you in making astronomical observations and understanding the basics of astronomy
 
 Horizon: Messy miscellaneous reading notes are used to broaden horizons
